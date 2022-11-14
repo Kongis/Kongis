@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongis&label=Profile%20views&color=0e75b6&style=flat" alt="kongis" /> </p>
 
-- 🔭 I’m currently working on **Secret :D**
+- 🔭 I’m currently working on **Secret 😄**
 
 - 🌱 I’m currently learning **Mobile App Development**
 
