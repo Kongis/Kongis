@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongis&label=Profile%20views&color=0e75b6&style=flat" alt="kongis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kongis" alt="kongis" /></a> </p>
-
 - 🔭 I’m currently working on **Secret :D**
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [Kongis.dev](Kongis.dev)
+- 👨‍💻 All of my projects are available at [https://kongis.dev/#/](https://kongis.dev/#/)
 
 - 📫 How to reach me **kongis.dev@pm.me**
 
