@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongis&label=Profile%20views&color=0e75b6&style=flat" alt="kongis" /> </p>
 
-- 🔭 I’m currently working on **Personals projects**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Frontend frameworks**
+- 🌱 I’m currently learning **Frontend Frameworks**
   
 - 📫 How to reach me **kongis.dev@pm.me**
 
