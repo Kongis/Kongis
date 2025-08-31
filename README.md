@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongis&label=Profile%20views&color=0e75b6&style=flat" alt="kongis" /> </p>
 
-- 🔭 I’m currently working on **UpWork or Fiverr**
+- 🔭 I’m currently working on **Personals projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 👨‍💻 All of my projects are available at [https://kongis.dev/#/](https://kongis.dev/#/)
-
+- 🌱 I’m currently learning **Frontend frameworks**
+  
 - 📫 How to reach me **kongis.dev@pm.me**
 
 <h3 align="left">Connect with me:</h3>
